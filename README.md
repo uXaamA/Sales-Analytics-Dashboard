@@ -6,6 +6,7 @@ This repository contains the Power BI project file for an interactive Sales Anal
 - [Dashboard Overview](#-dashboard-overview)
 - [Key Features](#-key-features)
 - [User Guide](#-user-guide)
+- [Dashboard Demo](#-dashboard-demo)
 - [Visual Sneak Peek](#-visual-sneak-peek)
 - [Technical Specifications](#-technical-specifications)
 - [How to Use This Project](#-how-to-use-this-project)
@@ -40,10 +41,35 @@ This dashboard is designed for ease of use and powerful insights.
 4. Click the "Back" arrow on the drill-through page to return to the main report.
 5. Use the Title Page buttons for quick navigation across report sections.
 
+## 🎥 Dashboard Demo
+
+### Watch the Full Dashboard Walkthrough
+
+https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/Dashboard%20Demo.mp4
+
+### Quick Features Demo
+| Feature | Description |
+|---------|-------------|
+| **Interactive Filtering** | Dynamic data slicing by region, category, and time period |
+| **Drill-Through Analysis** | Deep dive into customer and product specifics |
+| **Multi-Page Navigation** | Seamless transition between different analysis views |
+
+*Click the video link above to see the dashboard in action!*
+
 ## 🎨 Visual Sneak Peek
-| General Analysis | Product Overview | Region Overview |
+
+### Dashboard Pages Overview
+
+| General Overview | Product Overview | Region Overview |
 |------------------|------------------|-----------------|
-|                  |                  |                 |
+| [![General Overview](https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/General%20Overview.png)](https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/General%20Overview.png) | [![Product Overview](https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/Product%20Overview.png)](https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/Product%20Overview.png) | [![Region Overview](https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/Region%20Overview.png)](https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/Region%20Overview.png) |
+
+### Page Descriptions:
+- **General Overview**: High-level KPIs and summary metrics with interactive filters
+- **Product Overview**: Detailed product performance analysis and comparisons
+- **Region Overview**: Geographical sales distribution and regional performance metrics
+
+*Click on any image to view it in full size*
 
 ## 🛠️ Technical Specifications
 - **Tool**: Microsoft Power BI
