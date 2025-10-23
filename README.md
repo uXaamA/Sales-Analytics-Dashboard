@@ -76,11 +76,10 @@ https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/Dashboard%20Demo.m
 - **Data Source**: Excel Workbook
 - **DAX Measures**: The dashboard utilizes Data Analysis Expressions (DAX) for complex calculations and KPIs.
 
+  ## 👤 Author
+Muhammad Usama
+
 ## 🚀 How to Use This Project
 1. Clone the repository:
 ```bash
 git clone https://github.com/uXaamA/Sales-Analytics-Dashboard.git
-
-
-##👤 Author
-Muhammad Usama
