@@ -80,3 +80,7 @@ https://github.com/uXaamA/Sales-Analytics-Dashboard/blob/main/Dashboard%20Demo.m
 1. Clone the repository:
 ```bash
 git clone https://github.com/uXaamA/Sales-Analytics-Dashboard.git
+
+
+##👤 Author
+Muhammad Usama
